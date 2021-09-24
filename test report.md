@@ -7,7 +7,7 @@
 На тестирование затрачено: 0,5 часа
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/MarinaSev/HWJava1-Money-Transfer/issues/1#issue-994970700
+* [При пополнении счёта VIP-клиента отображается неверная итоговая сумма. #1](https://github.com/MarinaSev/HWJava1-Money-Transfer/issues/1#issue-994970700)
 
 
 ## Описание процесса тестирования
